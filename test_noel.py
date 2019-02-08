@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-@author: toti.cavalcanti
-"""
+
 import unittest
 from noel import solution
 
